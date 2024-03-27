@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ecocash</string>
+    <string name="usernameLoginScreen">Username</string>
+    <string name="welcomeTextField">Welcome</string>
+    <string name="passwordLoginScreen">Password</string>
+    <string name="buttonLogin">Button</string>
+    <string name="buttonLoginScreen">Login</string>
+</resources>
